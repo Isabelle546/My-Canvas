@@ -1,0 +1,12 @@
+canvas{
+    background-color: aliceblue;
+    border-style: groove;
+    border-color: yellow;
+    position: center;
+}
+
+.body{
+    background-image:url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148910071.jpg");
+    background-position: center;
+    background-size: cover;
+}
